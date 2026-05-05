@@ -12,16 +12,16 @@
 - 📫 How to reach me **kanishkmangal2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kanishk-mangal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishk-mangal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22875130/kanishk-mangal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22875130/kanishk-mangal" height="30" width="40" /></a>
-<a href="https://kaggle.com/kanishkmangal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanishkmangal2" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kanishkmangal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanishkmangal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kanishkmangal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanishkmangal2" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kanishkmanga2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kanishkmanga2005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kanishkman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanishkman" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kanishkmangal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kanishkmangal2" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kanishkmangal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kanishkmangal2" height="30" width="40" /></a>
+<p align="left" style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
+  <a href="https://linkedin.com/in/kanishk-mangal"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+  <a href="https://stackoverflow.com/users/22875130/kanishk-mangal"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/></a>
+  <a href="https://kaggle.com/kanishkmangal2"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
+  <a href="https://www.codechef.com/users/kanishkmangal"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/></a>
+  <a href="https://www.hackerrank.com/kanishkmangal2"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a>
+  <a href="https://codeforces.com/profile/kanishkmanga2005"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a>
+  <a href="https://www.leetcode.com/kanishkman"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
+  <a href="https://www.hackerearth.com/@kanishkmangal2"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/kanishkmangal2"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
